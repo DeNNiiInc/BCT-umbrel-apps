@@ -1,7 +1,7 @@
 manifestVersion: 1
-id: bazarr
+id: BCT_bazarr
 category: media
-name: Bazarr
+name: BCT_Bazarr
 version: "1.5.3"
 tagline: Manage and download subtitles for Sonarr and Radarr
 description: >-
