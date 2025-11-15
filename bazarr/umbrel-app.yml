@@ -44,7 +44,7 @@ website: https://www.bazarr.media/
 dependencies: []
 repo: https://github.com/morpheus65535/bazarr
 support: https://github.com/morpheus65535/bazarr/issues
-port: 6767
+port: 7767
 gallery:
   - 1.jpg
   - 2.jpg
