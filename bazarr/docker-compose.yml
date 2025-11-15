@@ -6,6 +6,7 @@ services:
       APP_HOST: bazarr_server_1
       APP_PORT: 6767
       APP_HOST: bazarr_server_2
+      APP_PORT: 7767
       PROXY_AUTH_WHITELIST: "/api/*"
       PROXY_AUTH_ADD: 'false'
 
